@@ -7,7 +7,7 @@ Run .bat file as a Adminstator
 
 ⚡ CPU & Power Tweaks: Adjusts Win32PrioritySeparation and system responsiveness to prioritize active games. Injects a custom power plan for maximum performance and disables CPU throttling/C-States for maximum clock speed stability.
 
-⏱️ True 0.5ms Timer Resolution: Compiles a native, crash-proof background service to permanently lock the Windows Timer Resolution to 0.5ms(Active from the boot automaticly till shutting down), and disables HPET to drastically reduce input delay.
+⏱️ True 0.5ms Timer Resolution: Compiles a native, crash-proof background service to permanently lock the Windows Timer Resolution to 0.5ms (Active from the boot automaticly till shutting down) , and disables HPET to drastically reduce input delay.
 
 🌐 Network Optimization: Forces TCPNoDelay, disables TCP throttling, and routes DNS through Cloudflare (1.1.1.1) for faster packet delivery and better hit registration.
 
