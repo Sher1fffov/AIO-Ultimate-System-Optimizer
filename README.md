@@ -16,4 +16,4 @@ Run .bat file as a Adminstator
 ⚙️UI Tuning: Turns off UI transparency for faster window rendering, and restores the classic fast right-click menu.
 
 ⬇️ Downloads
-Find the latest release of Optimizer on the [Releases]((https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
+Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
