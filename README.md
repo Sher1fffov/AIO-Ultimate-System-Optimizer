@@ -1,9 +1,9 @@
 # AIO-System-Optimizer
 ℹ️ Advanced Optimization and Debloating Utility
 
-CMD command and .pow files are included in the zip file 
+New Release Comes with .exe program
 
-Run .bat file as a Adminstator 
+Run .exe file as a Adminstator 
 
 ⚡ CPU & Power Tweaks: Adjusts Win32PrioritySeparation and system responsiveness to prioritize active games. Injects a custom power plan for maximum performance and disables CPU throttling/C-States for maximum clock speed stability.
 
