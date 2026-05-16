@@ -1,9 +1,9 @@
 # AIO-Ultimate System-Optimizer
 ℹ️ Advanced Utility for quick Optimization and Debloating 
 
-New Release Comes with .exe program
+New Release Comes with .exe format
 
-Run .exe file as a Adminstator 
+<h2>Run .exe file as a Adminstator</h2>
 
 ⚡ CPU & Power Tweaks: Adjusts Win32PrioritySeparation and system responsiveness to prioritize active games. Injects a custom power plan for maximum performance and disables CPU throttling/C-States for maximum clock speed stability.
 
