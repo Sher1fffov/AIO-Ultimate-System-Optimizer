@@ -17,9 +17,7 @@ New Release Comes with .exe format
 
 ⚙️ UI Tuning: Turns off UI transparency for faster window rendering, and restores the classic right-click menu.
 
-⬇️ Downloads:
-
-Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
+⬇️ Downloads: Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
 
 🖼️ Photos from the App
 
