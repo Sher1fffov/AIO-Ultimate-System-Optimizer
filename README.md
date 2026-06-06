@@ -1,5 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Sher1fffov)
-# AIO-Ultimate System-Optimizer
+# AIO-Ultimate System-Optimizer                                       ![](https://komarev.com/ghpvc/?username=Sher1fffov)
 ℹ️ Advanced Utility for quick Optimization and Debloating 
 
 
