@@ -1,7 +1,6 @@
+![](https://komarev.com/ghpvc/?username=Sher1fffov)
 # AIO-Ultimate System-Optimizer
 ℹ️ Advanced Utility for quick Optimization and Debloating 
-
-![](https://komarev.com/ghpvc/?username=Sher1fffov)
 
 
 <h2>Run .exe file as a Adminstator</h2>
