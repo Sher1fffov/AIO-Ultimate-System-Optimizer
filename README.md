@@ -22,19 +22,8 @@ Deploys a multi-layered telemetry lockdown targeting deep OS tracking services, 
 Disables performance-heavy UI transparency filters (Acrylic/Mica renders) to recover native GPU cycles. Restores the high-speed classic single-layer context menus and drops right-click delay limits to a flat 0ms.
 
 ⬇️ Downloads
-Grab the latest release from our official Releases tab.
+Grab the latest release from [ Releases](https://github.com/Sher1fffov/AIO-Ultimate-System-Optimizer/releases) tab.
 
-🖼️ Photos from the app
-
-<img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c507a5c-3002-496b-a7a8-f996b273b417" />
-----------------------------------------------------------------------------------------------------------------------------------
-<img width="1908" height="1073" alt="image" src="https://github.com/user-attachments/assets/6aa1ddc0-9f0c-43f9-924f-eac7f4a3c85d" />
-----------------------------------------------------------------------------------------------------------------------------------
-<img width="1909" height="1072" alt="image" src="https://github.com/user-attachments/assets/9e6d8e1b-eab0-4d6d-8802-49d7e9006ac5" />
------------------------------------------------------------------------------------------------------------------------------------
-<img width="1910" height="1073" alt="image" src="https://github.com/user-attachments/assets/cd337f97-2263-42ef-b7ba-8abd0460bc41" />
------------------------------------------------------------------------------------------------------------------------------------
-<img width="1910" height="1072" alt="image" src="https://github.com/user-attachments/assets/3ef17129-8ed2-421c-9288-48167c9d295e" /> 
 
 
 
