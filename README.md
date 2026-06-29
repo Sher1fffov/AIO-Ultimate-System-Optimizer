@@ -1,24 +1,30 @@
 # AIO-Ultimate System-Optimizer                                       ![](https://komarev.com/ghpvc/?username=Sher1fffov)
-ℹ️ Advanced Utility for quick Optimization and Debloating 
 
+ℹ️ Advanced Utility for Quick Optimization and Debloating
+Important: Right-click and select 'Run as Administrator' for the script to execute correctly.
 
-<h2>Run .exe file as a Adminstator</h2>
+⚡ CPU & Power Tweaks
+Adjusts thread scheduling (Win32PrioritySeparation) and system responsiveness to prioritize active gaming payloads over desktop tasks. Safely disables CPU throttling, EcoQoS (Power Throttling), and aggressive power-saving C-States to ensure true clock stability.
 
-⚡ CPU & Power Tweaks: Adjusts Win32PrioritySeparation and system responsiveness to prioritize active games. Injects a custom power plan for maximum performance and disables CPU throttling/C-States for maximum clock speed stability.
+⏱️ True 0.5ms Timer Resolution
+Compiles a native background engine to automatically lock the Windows System Timer to exactly 0.5ms on user logon. Disables HPET, synthetic ticks, and dynamic ticking via boot parameters to drastically crush input delay.
 
-⏱️ True 0.5ms Timer Resolution: Compiles a native background service to permanently lock the Windows Timer Resolution to 0.5ms (Active from the boot automaticly till shutting down) , and disables HPET to drastically reduce input delay.
+🧠 RAM & Memory Tuning
+Disables real-time memory compression on 16GB+ rigs to free up valuable CPU cycles, or optimizes paging configurations for low-memory systems. Disables the NDU service to permanently patch non-paged pool memory leak vulnerabilities.
 
-🧠 RAM & Memory Tuning: Optimizes memory handling by disabling active compression on 16GB+ systems to free up CPU cycles, properly splits svchost thresholds for crash prevention, and disables the NDU service to permanently patch non-paged pool memory leaks. Includes profiles for high and low-end hardware.
+🌐 Network Optimization
+Enforces zero-delay packet delivery (Disables Nagle's Algorithm via TCPNoDelay), overrides network throttling indexes, and optimizes the TCP auto-tuning layer. Automatically maps active connections to secure Cloudflare (1.1.1.1) DNS routing.
 
-🌐 Network Optimization: Forces TCPNoDelay, disables TCP throttling, and routes DNS through Cloudflare (1.1.1.1) for faster packet delivery and better hit registration.
+🗑️ Ultimate Telemetry & System Debloat
+Deploys a multi-layered telemetry lockdown targeting deep OS tracking services, Windows Defender cloud logging parameters, PowerShell/Diagnostic engines, and Microsoft host redirect filtering. Purges stubborn Windows 11 block-apps, suppresses background UWP tasks, disables redundant system utilities (Print Spooler, Fax, SysMain), and provides an array of aggressive system file/cache cleaning hooks.
 
-🗑️ Aggressive System Debloat: Strips away useless UWP bloatware apps, disables heavy background services like SysMain (Superfetch), and permanently blocks Windows telemetry and tracking.
+⚙️ UI Tuning
+Disables performance-heavy UI transparency filters (Acrylic/Mica renders) to recover native GPU cycles. Restores the high-speed classic single-layer context menus and drops right-click delay limits to a flat 0ms.
 
-⚙️ UI Tuning: Turns off UI transparency for faster window rendering, and restores the classic right-click menu.
+⬇️ Downloads
+Grab the latest release from our official Releases tab.
 
-⬇️ Downloads: Find the latest release of Optimizer on the [Releases](https://github.com/Sher1fffov/AIO-System-Optimizer/releases) page.
-
-🖼️ Photos from the App
+🖼️ Photos from the app
 
 <img width="1909" height="1073" alt="image" src="https://github.com/user-attachments/assets/4c507a5c-3002-496b-a7a8-f996b273b417" />
 ----------------------------------------------------------------------------------------------------------------------------------
